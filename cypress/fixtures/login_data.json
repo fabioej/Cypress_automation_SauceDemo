@@ -1,0 +1,12 @@
+{
+    "error_messages":{
+        "username_required_message": "Epic sadface: Username is required",
+        "password_required_message": "Epic sadface: Password is required",
+        "wrong_credentials_message": "Epic sadface: Username and password do not match any user in this service"
+    },
+    "invalidUser": {
+      "username": "TestUser1",
+      "password": "12345678"
+    }
+}
+  
