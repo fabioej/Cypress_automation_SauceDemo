@@ -65,6 +65,12 @@
         "id": 3,
         "product": "Sauce Labs Onesie" 
     }    
+    ],
+    "select_1_products": [
+        {
+            "id": 1,
+            "product": "Sauce Labs Backpack"
+        }
     ]
-    
+
 }
