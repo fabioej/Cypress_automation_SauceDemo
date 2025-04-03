@@ -8,3 +8,7 @@ Repositório de exemplo de automação web Cypress
 -> Exemplo : 
     'usuario': "standard_user",
     'senha': "secret_sauce"
+
+
+
+Na pasta documentation contem exemplos de casos de testes, historias de usuarios e test cases para o cenario automatizado
